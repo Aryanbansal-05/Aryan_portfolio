@@ -1,0 +1,141 @@
+.main{
+    text-align: center;
+}
+
+.top-intro{
+    background-color: #e4f9f5;
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+.name{
+    color: #66bfbf;
+    font-family:"Sacramento", cursive;
+    font-size: 3.3rem;
+}
+.occ{
+    color: #66bfbf;
+    font-family: sans-serif;
+    font-size: 1.2rem;
+}
+.eng{
+        text-decoration: underline;
+        }
+.Aryan-image{
+    padding-top: 50px;
+    
+}     
+.greeting{
+    color: #66bfbf;
+}
+.about{
+    width: 80%;
+    margin: auto;
+    font-family: sans-serif;
+    padding-bottom: 40px;
+}
+.education{
+    padding-top: 30px;
+    background-color: #e4f9f5;
+
+}
+.edu-heading{
+    color: #66bfbf;
+}
+.tiet-image{
+    padding-top: 30px;
+}
+.tiet-about{
+    font-family: sans-serif;
+    padding-bottom: 30px;
+}
+
+.point-skill{
+    padding-top: 50px;
+    color: #66bfbf;
+    text-decoration: underline;
+}
+
+.ccpp-image{
+    padding-top: 50px;
+    
+}
+.ccpp-title{
+    font-family: sans-serif;
+    color:#11999e;
+}
+    
+
+.webdev-heading{
+    padding-top: 50px;
+    
+}
+.webdev-image{
+            padding-top: 30px;
+            
+}
+.webdev-title{
+    font-family: sans-serif;
+    color:#11999e;
+    padding-bottom: 10px;
+}
+
+
+.extra{
+    background-color: #e4f9f5;
+    padding-bottom: 50px;
+}
+.extra-heading{
+    padding-top: 60px;
+    color: #66bfbf;
+    text-decoration: underline;
+
+}
+.bad-image{
+    padding-top: 30px;
+}
+.bad-title{
+    font-size: 1.5rem;
+}
+.travel-image{
+    padding-top: 30px;
+}
+.travel-title{
+    font-size: 1.5rem;
+}
+.getintouch{
+    padding-top: 10px;
+    background-color: #66bfbf;
+    }
+.getin-heading{
+    color: #077175;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+}
+.links{
+    padding-bottom: 20px;
+}
+.linkdin-link{
+    font-family: sans-serif;
+    color: #077175;
+    padding-right: 30px;
+}
+.insta-link{
+    font-family: sans-serif;
+    color: #077175;
+    padding-right: 30px;
+}
+.email-link{
+    font-family: sans-serif;
+    color: #077175;
+    padding-right: 30px;
+}
+.copyright{
+    color: white;
+    padding-bottom: 20px;
+
+}
+
+
+
